@@ -1,0 +1,226 @@
+[   20.245119] Protocol			: VM with id: 1 JOIN.
+[   20.245201] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N01¬“u1509950174
+
+[   20.245215] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N01¬“u1509950174
+
+[   20.245224] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N01¬“u1509950174
+
+[   20.245231] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1N01¬“u1509950174
+
+[   20.245238] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1N01¬“u1509950174
+
+[   20.245246] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1N01¬“u1509950174
+
+[   20.245253] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N01¬“u1509950174
+
+[   20.245260] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N01¬“u1509950174
+
+[   20.245267] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N01¬“u1509950174
+
+[   20.245291] Heartbeat Targets	: New targets 1 
+[   21.398053] Protocol			: VM with id: 2 JOIN.
+[   21.398221] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G2N02¬“v1509950175
+
+[   21.398250] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N02¬“v1509950175
+
+[   21.398261] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N02¬“v1509950175
+
+[   21.398273] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N02¬“v1509950175
+
+[   21.398284] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N02¬“v1509950175
+
+[   21.398291] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N02¬“v1509950175
+
+[   21.398306] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N02¬“v1509950175
+
+[   21.398318] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N02¬“v1509950175
+
+[   21.398329] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N02¬“v1509950175
+
+[   21.398374] Heartbeat Targets	: New targets 1 2 
+[   22.021087] Protocol			: VM with id: 3 JOIN.
+[   22.021188] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2N03¬“w1509950176
+
+[   22.021212] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N03¬“w1509950176
+
+[   22.021224] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G2N03¬“w1509950176
+
+[   22.021236] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N03¬“w1509950176
+
+[   22.021248] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N03¬“w1509950176
+
+[   22.021259] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G1N03¬“w1509950176
+
+[   22.021271] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G0N03¬“w1509950176
+
+[   22.021282] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N03¬“w1509950176
+
+[   22.021293] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N03¬“w1509950176
+
+[   22.021335] Heartbeat Targets	: New targets 1 2 3 
+[   22.720051] Protocol			: VM with id: 4 JOIN.
+[   22.720147] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2N04¬“x1509950176
+
+[   22.720166] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G2N04¬“x1509950176
+
+[   22.720179] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N04¬“x1509950176
+
+[   22.720188] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G1N04¬“x1509950176
+
+[   22.720195] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1N04¬“x1509950176
+
+[   22.720207] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N04¬“x1509950176
+
+[   22.720218] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G0N04¬“x1509950176
+
+[   22.720229] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N04¬“x1509950176
+
+[   22.720240] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N04¬“x1509950176
+
+[   22.720284] Heartbeat Targets	: New targets 1 2 3 4 
+[   23.372037] Protocol			: VM with id: 5 JOIN.
+[   23.372110] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G2N05¬“y1509950177
+
+[   23.372123] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G2N05¬“y1509950177
+
+[   23.372129] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2N05¬“y1509950177
+
+[   23.372136] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1N05¬“y1509950177
+
+[   23.372139] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G1N05¬“y1509950177
+
+[   23.372144] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N05¬“y1509950177
+
+[   23.372147] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N05¬“y1509950177
+
+[   23.372153] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G0N05¬“y1509950177
+
+[   23.372155] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N05¬“y1509950177
+
+[   23.372212] Heartbeat Targets	: New targets 1 2 4 5 
+[   24.127020] Protocol			: VM with id: 6 JOIN.
+[   24.127122] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G2N06¬“z1509950178
+
+[   24.127142] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2N06¬“z1509950178
+
+[   24.127147] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N06¬“z1509950178
+
+[   24.127153] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G1N06¬“z1509950178
+
+[   24.127162] Protocol			: Send Gossip to id 6--- ip: 172.22.147.122G1N06¬“z1509950178
+
+[   24.127166] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N06¬“z1509950178
+
+[   24.127168] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N06¬“z1509950178
+
+[   24.127170] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G0N06¬“z1509950178
+
+[   24.127173] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N06¬“z1509950178
+
+[   24.127208] Heartbeat Targets	: New targets 1 2 5 6 
+[   24.798044] Protocol			: VM with id: 7 JOIN.
+[   24.798167] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N07¬“{1509950179
+
+[   24.798193] Protocol			: Send Gossip to id 6--- ip: 172.22.147.122G2N07¬“{1509950179
+
+[   24.798207] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2N07¬“{1509950179
+
+[   24.798217] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G1N07¬“{1509950179
+
+[   24.798226] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G1N07¬“{1509950179
+
+[   24.798236] Protocol			: Send Gossip to id 7--- ip: 172.22.147.123G1N07¬“{1509950179
+
+[   24.798242] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N07¬“{1509950179
+
+[   24.798250] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G0N07¬“{1509950179
+
+[   24.798260] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N07¬“{1509950179
+
+[   24.798316] Heartbeat Targets	: New targets 1 2 6 7 
+[   25.505019] Protocol			: VM with id: 8 JOIN.
+[   25.505117] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N08¬“|1509950179
+
+[   25.505147] Protocol			: Send Gossip to id 6--- ip: 172.22.147.122G2N08¬“|1509950179
+
+[   25.505160] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G2N08¬“|1509950179
+
+[   25.505173] Protocol			: Send Gossip to id 8--- ip: 172.22.147.124G1N08¬“|1509950179
+
+[   25.505186] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G1N08¬“|1509950179
+
+[   25.505198] Protocol			: Send Gossip to id 7--- ip: 172.22.147.123G1N08¬“|1509950179
+
+[   25.505212] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G0N08¬“|1509950179
+
+[   25.505220] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0N08¬“|1509950179
+
+[   25.505236] Protocol			: Send Gossip to id 6--- ip: 172.22.147.122G0N08¬“|1509950179
+
+[   25.505283] Heartbeat Targets	: New targets 1 2 7 8 
+[   26.247048] Protocol			: VM with id: 9 JOIN.
+[   26.247172] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2N09¬“}1509950180
+
+[   26.247196] Protocol			: Send Gossip to id 7--- ip: 172.22.147.123G2N09¬“}1509950180
+
+[   26.247205] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G2N09¬“}1509950180
+
+[   26.247215] Protocol			: Send Gossip to id 5--- ip: 172.22.147.121G1N09¬“}1509950180
+
+[   26.247220] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G1N09¬“}1509950180
+
+[   26.247228] Protocol			: Send Gossip to id 6--- ip: 172.22.147.122G1N09¬“}1509950180
+
+[   26.247237] Protocol			: Send Gossip to id 9--- ip: 172.22.147.125G0N09¬“}1509950180
+
+[   26.247242] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0N09¬“}1509950180
+
+[   26.247246] Protocol			: Send Gossip to id 8--- ip: 172.22.147.124G0N09¬“}1509950180
+
+[   26.247284] Heartbeat Targets	: New targets 1 2 8 9 
+[  284.867052] Heartbeat Targets	: New targets 1 2 8 9 
+[  284.867068] Protocol			: VM with id: 5 VOLUNTARILY LEAVE.
+[  284.868690] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1Q05
+
+[  284.868717] Protocol			: Send Gossip to id 6--- ip: 172.22.147.123G1Q05
+
+[  284.868728] Protocol			: Send Gossip to id 4--- ip: 172.22.147.120G1Q05
+
+[  284.868738] Protocol			: Send Gossip to id 8--- ip: 172.22.147.125G0Q05
+
+[  284.868749] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G0Q05
+
+[  284.868754] Protocol			: Send Gossip to id 7--- ip: 172.22.147.124G0Q05
+
+[  289.771051] Heartbeat Targets	: New targets 1 2 8 9 
+[  289.771061] Protocol			: VM with id: 4 FAIL.
+[  289.771194] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G1L04
+
+[  289.771217] Protocol			: Send Gossip to id 6--- ip: 172.22.147.124G1L04
+
+[  289.771232] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G1L04
+
+[  289.771244] Protocol			: Send Gossip to id 4--- ip: 172.22.147.122G0L04
+
+[  289.771256] Protocol			: Send Gossip to id 5--- ip: 172.22.147.123G0L04
+
+[  289.771269] Protocol			: Send Gossip to id 7--- ip: 172.22.147.125G0L04
+
+[  503.400407] Protocol			: Send Gossip to id 1--- ip: 172.22.147.117G2Q00
+
+[  503.400428] Protocol			: Send Gossip to id 6--- ip: 172.22.147.124G2Q00
+
+[  503.400449] Protocol			: Send Gossip to id 3--- ip: 172.22.147.119G2Q00
+
+[  503.400465] Protocol			: Send Gossip to id 4--- ip: 172.22.147.122G1Q00
+
+[  503.400473] Protocol			: Send Gossip to id 5--- ip: 172.22.147.123G1Q00
+
+[  503.400476] Protocol			: Send Gossip to id 7--- ip: 172.22.147.125G1Q00
+
+[  503.400482] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0Q00
+
+[  503.400485] Protocol			: Send Gossip to id 5--- ip: 172.22.147.123G0Q00
+
+[  503.400492] Protocol			: Send Gossip to id 2--- ip: 172.22.147.118G0Q00
+
